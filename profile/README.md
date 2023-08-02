@@ -15,6 +15,14 @@
 - **Co-founder & CTO:** [Maximilien BRUCK](https://www.linkedin.com/in/maximilien-bruck-062a62241/)
 - **Relations Manager:** [Théo MATHIEU](https://www.linkedin.com/in/th%C3%A9o-mathieu-270a8b262/)
 
+## Our Partners:
+
+- Dauphine Londres Investment Club
+- MIC (McGill Investment Club)
+- LSE Investment Club
+- UCL Investment Club
+- University of Toronto Investment Club
+
 ## Learn More:
 
 - Linkedin: [BX Investment Club](https://www.linkedin.com/company/bx-investment-club)

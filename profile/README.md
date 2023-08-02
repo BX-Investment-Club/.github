@@ -1,5 +1,5 @@
 # BX Investment Club
-<img src="./images/logo.png" width="300" />
+<img src="./profile/images/logo.png" width="300" />
 
 École Polytechnique's *Bachelor of Science* Invesment Club
 
